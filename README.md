@@ -26,7 +26,7 @@ Ideally suited to produce the xml config file which can then be further used as 
 - Locations and unit names
 - BF1 postcodes
 - Country names
-- ISO 3166-1 alpha-2 country codes (via pycountry)
+- ISO 3166-1 alpha-2 country codes (via pycountry) - N.B.the country code for a BFPO address should always be GB 
 - Type classification (static, ship, fcdo, operation, exercise, navalparty, detachment)
 
 ### 📊 XML Configuration Output
