@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ### Clone Repository
 
 ```bash
-git clone https://github.com/domdigby/bfpo-scraper.git
+git clone https://github.com/domdigby/bfpo-address-scraper.git
 cd bfpo-scraper
 ```
 
@@ -179,7 +179,7 @@ MIT License - see [LICENSE](LICENSE)
 
 ## Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/domdigby/bfpo-scraper/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/domdigby/bfpo-address-scraper/issues)
 - 📧 **Contact**: info@affinis.co.uk
 
 ---

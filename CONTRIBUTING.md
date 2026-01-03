@@ -7,7 +7,7 @@ Thank you for your interest in contributing! This document provides guidelines f
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/domdigby/bfpo-scraper.git
+   git clone https://github.com/domdigby/bfpo-address-scraper.git
    cd bfpo-scraper
    ```
 3. **Install dependencies**:
@@ -148,7 +148,7 @@ Fixes #123
 ## Questions?
 
 - Check [README.md](README.md)
-- Search [Issues](https://github.com/domdigby/bfpo-scraper/issues)
+- Search [Issues](https://github.com/domdigby/bfpo-address-scraper/issues)
 - Email: info@affinis.co.uk
 
 Thank you for contributing! 🎉
