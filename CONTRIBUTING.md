@@ -8,7 +8,7 @@ Thank you for your interest in contributing! This document provides guidelines f
 2. **Clone your fork** locally:
    ```bash
    git clone https://github.com/domdigby/bfpo-address-scraper.git
-   cd bfpo-scraper
+   cd bfpo-address-scraper
    ```
 3. **Install dependencies**:
    ```bash

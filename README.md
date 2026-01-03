@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/domdigby/bfpo-address-scraper.git
-cd bfpo-scraper
+cd bfpo-address-scraper
 ```
 
 ## Quick Start
