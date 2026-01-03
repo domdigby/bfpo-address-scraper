@@ -1,0 +1,4870 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<!--
+BFPO Address Configuration
+Generated from GOV.UK BFPO locations
+Last Updated: 2026-01-03
+Created By: Affinis Ltd (Dominic Digby)
+Schema: bfpo_config.xsd
+Country Codes: ISO 3166-1 alpha-2 (via pycountry)
+-->
+	<BFFO_Address>
+		<BfpoNum>BFPO 2</BfpoNum>
+		<Loc>Washington and HMS Saker</Loc>
+		<PstCd>BF1 3AA</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 4</BfpoNum>
+		<Loc>Kathmandu</Loc>
+		<PstCd>BF1 3AD</PstCd>
+		<Ctry>Nepal</Ctry>
+		<CtryCd>NP</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5</BfpoNum>
+		<Loc>Headquarters of the Integrated Air Defence System (IADS) - Penang</Loc>
+		<PstCd>BF1 3AE</PstCd>
+		<Ctry>Malaysia</Ctry>
+		<CtryCd>MY</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 6</BfpoNum>
+		<Loc>Lisbon</Loc>
+		<PstCd>BF1 2AA</PstCd>
+		<Ctry>Portugal</Ctry>
+		<CtryCd>PT</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 8</BfpoNum>
+		<Loc>Naples</Loc>
+		<PstCd>BF1 2AB</PstCd>
+		<Ctry>Italy</Ctry>
+		<CtryCd>IT</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 10</BfpoNum>
+		<Loc>Nairobi</Loc>
+		<PstCd>BF1 3AF</PstCd>
+		<Ctry>Kenya</Ctry>
+		<CtryCd>KE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 11</BfpoNum>
+		<Loc>Seria</Loc>
+		<PstCd>BF1 3AG</PstCd>
+		<Ctry>Brunei</Ctry>
+		<CtryCd>BN</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 12</BfpoNum>
+		<Loc>Belize City</Loc>
+		<PstCd>BF1 3AH</PstCd>
+		<Ctry>Belize</Ctry>
+		<CtryCd>BZ</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 14</BfpoNum>
+		<Loc>Suffield</Loc>
+		<PstCd>BF1 3AJ</PstCd>
+		<Ctry>Canada</Ctry>
+		<CtryCd>CA</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 16</BfpoNum>
+		<Loc>Sennelager</Loc>
+		<PstCd>BF1 0AB</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 19</BfpoNum>
+		<Loc>Mönchengladbach</Loc>
+		<PstCd>BF1 0AE</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 26</BfpoNum>
+		<Loc>Casteau</Loc>
+		<PstCd>BF1 2AG</PstCd>
+		<Ctry>Belgium</Ctry>
+		<CtryCd>BE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 28</BfpoNum>
+		<Loc>Brunssum</Loc>
+		<PstCd>BF1 2AH</PstCd>
+		<Ctry>Holland</Ctry>
+		<CtryCd>NL</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 44</BfpoNum>
+		<Loc>Wulfen</Loc>
+		<PstCd>BF1 0AR</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 46</BfpoNum>
+		<Loc>Goch Wessel</Loc>
+		<PstCd>BF1 0AT</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 49</BfpoNum>
+		<Loc>Brussels</Loc>
+		<PstCd>BF1 2AN</PstCd>
+		<Ctry>Belgium</Ctry>
+		<CtryCd>BE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 50</BfpoNum>
+		<Loc>Stavanger</Loc>
+		<PstCd>BF1 2AQ</PstCd>
+		<Ctry>Norway</Ctry>
+		<CtryCd>NO</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 52</BfpoNum>
+		<Loc>Gibraltar</Loc>
+		<PstCd>BF1 2AR</PstCd>
+		<Ctry>Gibraltar</Ctry>
+		<CtryCd>GI</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 53</BfpoNum>
+		<Loc>Episkopi</Loc>
+		<PstCd>BF1 2AS</PstCd>
+		<Ctry>Cyprus</Ctry>
+		<CtryCd>CY</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 56</BfpoNum>
+		<Loc>Madrid</Loc>
+		<PstCd>BF1 2AX</PstCd>
+		<Ctry>Spain</Ctry>
+		<CtryCd>ES</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 57</BfpoNum>
+		<Loc>Akrotiri</Loc>
+		<PstCd>BF1 2AT</PstCd>
+		<Ctry>Cyprus</Ctry>
+		<CtryCd>CY</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 58</BfpoNum>
+		<Loc>Dhekelia</Loc>
+		<PstCd>BF1 2AU</PstCd>
+		<Ctry>Cyprus</Ctry>
+		<CtryCd>CY</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 59</BfpoNum>
+		<Loc>Ayios Nikolaos</Loc>
+		<PstCd>BF1 2AW</PstCd>
+		<Ctry>Cyprus</Ctry>
+		<CtryCd>CY</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 61</BfpoNum>
+		<Loc>Milan</Loc>
+		<PstCd>BF1 2AY</PstCd>
+		<Ctry>Italy</Ctry>
+		<CtryCd>IT</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 63</BfpoNum>
+		<Loc>Virginia</Loc>
+		<PstCd>BF1 3AQ</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 64</BfpoNum>
+		<Loc>Edwards Air Force Base - California</Loc>
+		<PstCd>BF1 3AS</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 65</BfpoNum>
+		<Loc>Rome</Loc>
+		<PstCd>BF1 2BA</PstCd>
+		<Ctry>Italy</Ctry>
+		<CtryCd>IT</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 68</BfpoNum>
+		<Loc>Poggio Renatico</Loc>
+		<PstCd>BF1 2BE</PstCd>
+		<Ctry>Italy</Ctry>
+		<CtryCd>IT</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 75</BfpoNum>
+		<Loc>Eglin Air Force Base, Florida</Loc>
+		<PstCd>BF1 3BF</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 77</BfpoNum>
+		<Loc>Pokhara</Loc>
+		<PstCd>BF1 3BH</PstCd>
+		<Ctry>Nepal</Ctry>
+		<CtryCd>NP</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 84</BfpoNum>
+		<Loc>TUSC LANT (Dam Neck) VA</Loc>
+		<PstCd>BF1 3BS</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 85</BfpoNum>
+		<Loc>OFFUTT AFB, Nebraska</Loc>
+		<PstCd>BF1 3BT</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 86</BfpoNum>
+		<Loc>Sheppard Air Force Base</Loc>
+		<PstCd>BF1 3BU</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 90</BfpoNum>
+		<Loc>Sigonella</Loc>
+		<PstCd>BF1 2DG</PstCd>
+		<Ctry>Italy</Ctry>
+		<CtryCd>IT</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<Loc>Isolated detachments</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>589</BoxNum>
+		<Loc>ATC Oberstdorf</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2002</BoxNum>
+		<Loc>HQ DEO Army, Strasberg</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2003</BoxNum>
+		<Loc>NATO School, Oberammergau</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2004</BoxNum>
+		<Loc>Army EO, Oldenburg</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2005</BoxNum>
+		<Loc>BEO, Berlin</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2007</BoxNum>
+		<Loc>RAF EO, Jever</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2008</BoxNum>
+		<Loc>NATO AB, Geilenkirchen</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2009</BoxNum>
+		<Loc>RAF RRC, Bavaria</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2010</BoxNum>
+		<Loc>NETMA/BCG/BSSO, Munich</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2011</BoxNum>
+		<Loc>BLO, Koln</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2012</BoxNum>
+		<Loc>RAF EO, Rostock Laage</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2014</BoxNum>
+		<Loc>OCCAR/COBRA</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2016</BoxNum>
+		<Loc>BLO, Pionierschule</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2017</BoxNum>
+		<Loc>BLO, Leipzig</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2019</BoxNum>
+		<Loc>RAF EO, Wurnstorf</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2020</BoxNum>
+		<Loc>GE AF Staff College, Hamburg</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2021</BoxNum>
+		<Loc>Naval OC</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2022</BoxNum>
+		<Loc>RN EO, Flensberg</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2024</BoxNum>
+		<Loc>AFRICOM, Stuttgart</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2025</BoxNum>
+		<Loc>EUCOM, Stuttgart</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2026</BoxNum>
+		<Loc>RAF LO, Diepholz</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2028</BoxNum>
+		<Loc>RAF MEA, Manching</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2029</BoxNum>
+		<Loc>UK Team IWSSC</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2030</BoxNum>
+		<Loc>RN EO, Eckernförde</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2031</BoxNum>
+		<Loc>BE Berlin (Defence Section)</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2033</BoxNum>
+		<Loc>RN LO GNHQ</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2034</BoxNum>
+		<Loc>1 GNC NSE, Munster</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2035</BoxNum>
+		<Loc>JSEC, Ulm</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2037</BoxNum>
+		<Loc>2 US Regt, Vilseck, Ulm</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2038</BoxNum>
+		<Loc>USAREUR-AF CIG, Wiesbaden</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2039</BoxNum>
+		<Loc>Fd Army - LNO - USAREUR, Clay Kaserne, Wiesbaden</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2040</BoxNum>
+		<Loc>DE&amp;S BLO, Koblenz</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 105</BfpoNum>
+		<BoxNum>2041</BoxNum>
+		<Loc>UK SratCom Liaison Officer Cyber and Info, Bonn</Loc>
+		<PstCd>BF1 0AX</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>detachment</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 109</BfpoNum>
+		<Loc>Ramstein</Loc>
+		<PstCd>BF1 0DL</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 201</BfpoNum>
+		<Loc>HMS Agamemnon</Loc>
+		<PstCd>BF1 4AB</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 202</BfpoNum>
+		<Loc>HMS Achilles</Loc>
+		<PstCd>BF1 4AD</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 203</BfpoNum>
+		<Loc>HMS Ajax</Loc>
+		<PstCd>BF1 4AE</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 204</BfpoNum>
+		<Loc>HMS Albion</Loc>
+		<PstCd>BF1 4AF</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 205</BfpoNum>
+		<Loc>HMS Ambush</Loc>
+		<PstCd>BF1 4AG</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 206</BfpoNum>
+		<Loc>HMS Anson</Loc>
+		<PstCd>BF1 4AH</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 208</BfpoNum>
+		<Loc>HMS Archer</Loc>
+		<PstCd>BF1 4AL</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 213</BfpoNum>
+		<Loc>HMS Artful</Loc>
+		<PstCd>BF1 4AS</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 214</BfpoNum>
+		<Loc>HMS Astute</Loc>
+		<PstCd>BF1 4AT</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 216</BfpoNum>
+		<Loc>HMS Audacious</Loc>
+		<PstCd>BF1 4AW</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 222</BfpoNum>
+		<Loc>HMS Bangor</Loc>
+		<PstCd>BF1 4BD</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 225</BfpoNum>
+		<Loc>HMS Belfast</Loc>
+		<PstCd>BF1 4BG</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 226</BfpoNum>
+		<Loc>HMS Birmingham</Loc>
+		<PstCd>BF1 4BH</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 229</BfpoNum>
+		<Loc>HMS Biter</Loc>
+		<PstCd>BF1 4BN</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 231</BfpoNum>
+		<Loc>HMS Blazer</Loc>
+		<PstCd>BF1 4BQ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 241</BfpoNum>
+		<Loc>HMS Brocklesby</Loc>
+		<PstCd>BF1 4DB</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 243</BfpoNum>
+		<Loc>HMS Bulwark</Loc>
+		<PstCd>BF1 4DE</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 249</BfpoNum>
+		<Loc>HMS Cardiff</Loc>
+		<PstCd>BF1 4DN</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 251</BfpoNum>
+		<Loc>HMS Cattistock</Loc>
+		<PstCd>BF1 4DQ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 252</BfpoNum>
+		<Loc>HMS Charger</Loc>
+		<PstCd>BF1 4DR</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 254</BfpoNum>
+		<Loc>HMS Chiddingfold</Loc>
+		<PstCd>BF1 4DT</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 255</BfpoNum>
+		<Loc>HMS Cutlass</Loc>
+		<PstCd>BF1 4DU</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 262</BfpoNum>
+		<Loc>HMS Dreadnought</Loc>
+		<PstCd>BF1 4ED</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 266</BfpoNum>
+		<Loc>HMS Dagger</Loc>
+		<PstCd>BF1 4EH</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 267</BfpoNum>
+		<Loc>HMS Defender</Loc>
+		<PstCd>BF1 4EJ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 268</BfpoNum>
+		<Loc>HMS Dragon</Loc>
+		<PstCd>BF1 4EL</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 269</BfpoNum>
+		<Loc>HMS Duncan</Loc>
+		<PstCd>BF1 4EN</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 270</BfpoNum>
+		<Loc>HMS Daring</Loc>
+		<PstCd>BF1 4EP</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 271</BfpoNum>
+		<Loc>HMS Dasher</Loc>
+		<PstCd>BF1 4EQ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 272</BfpoNum>
+		<Loc>HMS Dauntless</Loc>
+		<PstCd>BF1 4ER</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 273</BfpoNum>
+		<Loc>HMS Diamond</Loc>
+		<PstCd>BF1 4ES</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 277</BfpoNum>
+		<Loc>HMS Edinburgh</Loc>
+		<PstCd>BF1 4EX</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 280</BfpoNum>
+		<Loc>HMS Explorer</Loc>
+		<PstCd>BF1 4FA</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 281</BfpoNum>
+		<Loc>HMS Example</Loc>
+		<PstCd>BF1 4FB</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 282</BfpoNum>
+		<Loc>HMS Express</Loc>
+		<PstCd>BF1 4FD</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 285</BfpoNum>
+		<Loc>HMS Exploit</Loc>
+		<PstCd>BF1 4FG</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 286</BfpoNum>
+		<Loc>HMS Forth</Loc>
+		<PstCd>BF1 4FH</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 287</BfpoNum>
+		<Loc>HMS Glasgow</Loc>
+		<PstCd>BF1 4FJ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 288</BfpoNum>
+		<Loc>HMS Gleaner</Loc>
+		<PstCd>BF1 4FL</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 298</BfpoNum>
+		<Loc>HMS Hull</Loc>
+		<PstCd>BF1 4FY</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 300</BfpoNum>
+		<Loc>HMS Hurworth</Loc>
+		<PstCd>BF1 4GA</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 309</BfpoNum>
+		<Loc>HMS Iron Duke</Loc>
+		<PstCd>BF1 4GN</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 318</BfpoNum>
+		<Loc>HMS Kent</Loc>
+		<PstCd>BF1 4GY</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 323</BfpoNum>
+		<Loc>HMS Lancaster</Loc>
+		<PstCd>BF1 4HE</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 324</BfpoNum>
+		<Loc>HMS Ledbury</Loc>
+		<PstCd>BF1 4HF</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 326</BfpoNum>
+		<Loc>HMS London</Loc>
+		<PstCd>BF1 4HH</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 328</BfpoNum>
+		<Loc>HMS Magpie</Loc>
+		<PstCd>BF1 4HL</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 332</BfpoNum>
+		<Loc>HMS Medway</Loc>
+		<PstCd>BF1 4HR</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 334</BfpoNum>
+		<Loc>HMS Mersey</Loc>
+		<PstCd>BF1 4HT</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 335</BfpoNum>
+		<Loc>HMS Middleton</Loc>
+		<PstCd>BF1 4HU</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 338</BfpoNum>
+		<Loc>HMS Monmouth</Loc>
+		<PstCd>BF1 4HV</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 343</BfpoNum>
+		<Loc>HMS Newcastle</Loc>
+		<PstCd>BF1 4JE</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 345</BfpoNum>
+		<Loc>HMS Northumberland</Loc>
+		<PstCd>BF1 4JG</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 350</BfpoNum>
+		<Loc>HMS Ocean</Loc>
+		<PstCd>BF1 4JP</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 361</BfpoNum>
+		<Loc>HMS Portland</Loc>
+		<PstCd>BF1 4LB</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 362</BfpoNum>
+		<Loc>HMS Puncher</Loc>
+		<PstCd>BF1 4LD</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 363</BfpoNum>
+		<Loc>HMS Pursuer</Loc>
+		<PstCd>BF1 4LE</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 364</BfpoNum>
+		<Loc>HMS Prince of Wales</Loc>
+		<PstCd>BF1 4LF</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 365</BfpoNum>
+		<Loc>HMS Queen Elizabeth</Loc>
+		<PstCd>BF1 4LG</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 367</BfpoNum>
+		<Loc>HMS Protector</Loc>
+		<PstCd>BF1 4LJ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 368</BfpoNum>
+		<Loc>HMS Ramsay</Loc>
+		<PstCd>BF1 4LL</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 369</BfpoNum>
+		<Loc>HMS Ranger</Loc>
+		<PstCd>BF1 4LN</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 375</BfpoNum>
+		<Loc>HMS Richmond</Loc>
+		<PstCd>BF1 4LU</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 377</BfpoNum>
+		<Loc>HMS Raider</Loc>
+		<PstCd>BF1 4LX</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 381</BfpoNum>
+		<Loc>HMS Scott</Loc>
+		<PstCd>BF1 4NB</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 382</BfpoNum>
+		<Loc>HMS Severn</Loc>
+		<PstCd>BF1 4ND</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 383</BfpoNum>
+		<Loc>HMS Sheffield</Loc>
+		<PstCd>BF1 4NE</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 384</BfpoNum>
+		<Loc>HMS Scimitar</Loc>
+		<PstCd>BF1 4NF</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 387</BfpoNum>
+		<Loc>HMS Smiter</Loc>
+		<PstCd>BF1 4NJ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 395</BfpoNum>
+		<Loc>HMS Somerset</Loc>
+		<PstCd>BF1 4NU</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 397</BfpoNum>
+		<Loc>HMS Spey</Loc>
+		<PstCd>BF1 4NX</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 398</BfpoNum>
+		<Loc>HMS Sutherland</Loc>
+		<PstCd>BF1 4NY</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 399</BfpoNum>
+		<Loc>HMS St Albans</Loc>
+		<PstCd>BF1 4NZ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 400</BfpoNum>
+		<Loc>HMS Tamar</Loc>
+		<PstCd>BF1 4PA</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 406</BfpoNum>
+		<Loc>HMS Triumph</Loc>
+		<PstCd>BF1 4PH</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 407</BfpoNum>
+		<Loc>HMS Trumpeter</Loc>
+		<PstCd>BF1 4PJ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 409</BfpoNum>
+		<Loc>HMS Tracker</Loc>
+		<PstCd>BF1 4PN</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 411</BfpoNum>
+		<Loc>HMS Trent</Loc>
+		<PstCd>BF1 4PQ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 412</BfpoNum>
+		<Loc>HMS Tyne</Loc>
+		<PstCd>BF1 4PR</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 417</BfpoNum>
+		<Loc>HMS Valiant</Loc>
+		<PstCd>BF1 4PX</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 418</BfpoNum>
+		<Loc>HMS Vanguard</Loc>
+		<PstCd>BF1 4PY</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 419</BfpoNum>
+		<Loc>HMS Victorious</Loc>
+		<PstCd>BF1 4PZ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 420</BfpoNum>
+		<Loc>HMS Vigilant</Loc>
+		<PstCd>BF1 4QA</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 421</BfpoNum>
+		<Loc>HMS Vengeance</Loc>
+		<PstCd>BF1 4QB</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 422</BfpoNum>
+		<Loc>HMS Venturer</Loc>
+		<PstCd>BF1 4QD</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 431</BfpoNum>
+		<Loc>RFA Wave Ruler</Loc>
+		<PstCd>BF1 4QQ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 432</BfpoNum>
+		<Loc>RFA Wave Knight</Loc>
+		<PstCd>BF1 4QR</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 433</BfpoNum>
+		<Loc>RFA Argus</Loc>
+		<PstCd>BF1 4QS</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 436</BfpoNum>
+		<Loc>RFA Cardigan Bay</Loc>
+		<PstCd>BF1 4QW</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 442</BfpoNum>
+		<Loc>RFA Fort Victoria</Loc>
+		<PstCd>BF1 4RD</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 447</BfpoNum>
+		<Loc>RFA Lyme Bay</Loc>
+		<PstCd>BF1 4RJ</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 448</BfpoNum>
+		<Loc>RFA Mounts Bay</Loc>
+		<PstCd>BF1 4RL</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 450</BfpoNum>
+		<Loc>RFA Proteus</Loc>
+		<PstCd>BF1 4RP</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 454</BfpoNum>
+		<Loc>RFA Stirling Castle</Loc>
+		<PstCd>BF1 4RT</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 455</BfpoNum>
+		<Loc>RFA Tideforce</Loc>
+		<PstCd>BF1 4RU</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 456</BfpoNum>
+		<Loc>RFA Tiderace</Loc>
+		<PstCd>BF1 4RW</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 457</BfpoNum>
+		<Loc>RFA Tidespring</Loc>
+		<PstCd>BF1 4RX</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 458</BfpoNum>
+		<Loc>RFA Tidesurge</Loc>
+		<PstCd>BF1 4RY</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 460</BfpoNum>
+		<Loc>MTXG MST2</Loc>
+		<PstCd>BF1 4SA</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 464</BfpoNum>
+		<Loc>MTXG MST1</Loc>
+		<PstCd>BF1 4SF</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 472</BfpoNum>
+		<Loc>815 NAS</Loc>
+		<PstCd>BF1 4SR</PstCd>
+		<Type>ship</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 485</BfpoNum>
+		<Loc>Diego Garcia NP1002</Loc>
+		<PstCd>BF1 4TG</PstCd>
+		<Ctry>British Indian Ocean Territory</Ctry>
+		<CtryCd>IO</CtryCd>
+		<Type>navalparty</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 487</BfpoNum>
+		<Loc>Ottawa NP1010</Loc>
+		<PstCd>BF1 4TJ</PstCd>
+		<Ctry>Canada</Ctry>
+		<CtryCd>CA</CtryCd>
+		<Type>navalparty</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 489</BfpoNum>
+		<Loc>Singapore NP1022</Loc>
+		<PstCd>BF1 4TN</PstCd>
+		<Ctry>Singapore</Ctry>
+		<CtryCd>SG</CtryCd>
+		<Type>navalparty</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 494</BfpoNum>
+		<Loc>Falklands NP2010</Loc>
+		<PstCd>BF1 4TT</PstCd>
+		<Ctry>Falklands</Ctry>
+		<CtryCd>FK</CtryCd>
+		<Type>navalparty</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 495</BfpoNum>
+		<Loc>Den Helder NP1005</Loc>
+		<PstCd>BF1 4TU</PstCd>
+		<Ctry>Netherlands</Ctry>
+		<CtryCd>NL</CtryCd>
+		<Type>navalparty</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 501</BfpoNum>
+		<Loc>OP ELGIN</Loc>
+		<PstCd>BF1 5AB</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 503</BfpoNum>
+		<Loc>Ex Steadfast Jupiter</Loc>
+		<PstCd>BF1 5AE</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 506</BfpoNum>
+		<Loc>Ex Steadfast Leda</Loc>
+		<PstCd>BF1 5AH</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 510</BfpoNum>
+		<Loc>Ex Clockwork</Loc>
+		<PstCd>BF1 5AP</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 521</BfpoNum>
+		<Loc>Ex Cetus/AQUILA</Loc>
+		<PstCd>BF1 5BB</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 527</BfpoNum>
+		<Loc>Ex Winter Warrior</Loc>
+		<PstCd>BF1 5BJ</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 530</BfpoNum>
+		<Loc>Ex NRF24</Loc>
+		<PstCd>BF1 5BP</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 531</BfpoNum>
+		<Loc>Ex Lynotyper</Loc>
+		<PstCd>BF1 5BQ</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 536</BfpoNum>
+		<Loc>Ex Iron Cyclone</Loc>
+		<PstCd>BF1 5BW</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 536</BfpoNum>
+		<Loc>Ex Defender</Loc>
+		<PstCd>BF1 5BW</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 537</BfpoNum>
+		<Loc>OP CHESSMAN</Loc>
+		<PstCd>BF1 5BX</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 550</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 5DP</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 556</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 5DW</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 561</BfpoNum>
+		<Loc>OP ELGIN (K)</Loc>
+		<PstCd>BF1 5EB</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 566</BfpoNum>
+		<Loc>OP CABRIT (E)</Loc>
+		<PstCd>BF1 5EH</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 567</BfpoNum>
+		<Loc>OP TOSCA</Loc>
+		<PstCd>BF1 5EJ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 571</BfpoNum>
+		<Loc>OP PENSICOLA</Loc>
+		<PstCd>BF1 5EQ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 576</BfpoNum>
+		<Loc>OP ALLIED SOLACE/VOCATE</Loc>
+		<PstCd>BF1 5EW</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 583</BfpoNum>
+		<Loc>OP AZOTIZE</Loc>
+		<PstCd>BF1 5FE</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 584</BfpoNum>
+		<Loc>OP CABRIT (P)</Loc>
+		<PstCd>BF1 5FF</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 590</BfpoNum>
+		<Loc>OP ORBITAL</Loc>
+		<PstCd>BF1 5FP</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 592</BfpoNum>
+		<Loc>OP MAZANNA</Loc>
+		<PstCd>BF1 5FR</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 598</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 5FY</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 599</BfpoNum>
+		<Loc>UKSU Izmir</Loc>
+		<PstCd>BF1 5FZ</PstCd>
+		<Ctry>Turkey</Ctry>
+		<CtryCd>TR</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 605</BfpoNum>
+		<Loc>OP TURUS</Loc>
+		<PstCd>BF1 6AG</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 606</BfpoNum>
+		<Loc>OP PERCIVAL</Loc>
+		<PstCd>BF1 6AH</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 607</BfpoNum>
+		<Loc>OP VOGUL</Loc>
+		<PstCd>BF1 6AJ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 611</BfpoNum>
+		<Loc>OP MATCHMAKER</Loc>
+		<PstCd>BF1 6AQ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 617</BfpoNum>
+		<Loc>OP BACKWELL/MODEST/PRAISER</Loc>
+		<PstCd>BF1 6AX</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 630</BfpoNum>
+		<Loc>OP UKSpN(A)</Loc>
+		<PstCd>BF1 6BP</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 631</BfpoNum>
+		<Loc>OP TANGHAM</Loc>
+		<PstCd>BF1 6BQ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 632</BfpoNum>
+		<Loc>OP KIPION</Loc>
+		<PstCd>BF1 6BR</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 633</BfpoNum>
+		<Loc>OP CROSSWAYS</Loc>
+		<PstCd>BF1 6BS</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 634</BfpoNum>
+		<Loc>OP CROSSWAYS</Loc>
+		<PstCd>BF1 6BT</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 635</BfpoNum>
+		<Loc>OP CROSSWAYS</Loc>
+		<PstCd>BF1 6BU</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 636</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 6BW</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 639</BfpoNum>
+		<Loc>OP KIPION</Loc>
+		<PstCd>BF1 6BZ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 642</BfpoNum>
+		<Loc>BMM Kuwait City</Loc>
+		<PstCd>BF1 6DD</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 644</BfpoNum>
+		<Loc>BMATT - Jordan</Loc>
+		<PstCd>BF1 6DF</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 648</BfpoNum>
+		<Loc>OP TANGHAM</Loc>
+		<PstCd>BF1 6DL</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 649</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 6DN</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 651</BfpoNum>
+		<Loc>OP VERITAS</Loc>
+		<PstCd>BF1 6DQ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 655</BfpoNum>
+		<Loc>British Forces South Atlantic Islands (BFSAI) - Mount Pleasant Airport</Loc>
+		<PstCd>BF1 6DU</PstCd>
+		<Ctry>Falklands</Ctry>
+		<CtryCd>FK</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 657</BfpoNum>
+		<Loc>AB-CR - BFSAI Falklands</Loc>
+		<PstCd>BF1 6DX</PstCd>
+		<Ctry>Falklands</Ctry>
+		<CtryCd>FK</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 660</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 6EA</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 662</BfpoNum>
+		<Loc>OP BROADSHARE</Loc>
+		<PstCd>BF1 6ED</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 663</BfpoNum>
+		<Loc>OP BROADSHARE</Loc>
+		<PstCd>BF1 6EE</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 664</BfpoNum>
+		<Loc>OP BRANTA</Loc>
+		<PstCd>BF1 6EF</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 668</BfpoNum>
+		<Loc>OP CORDED</Loc>
+		<PstCd>BF1 6EL</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 670</BfpoNum>
+		<Loc>Ex Prairie Thunder</Loc>
+		<PstCd>BF1 6EP</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 672</BfpoNum>
+		<Loc>OP NSATU</Loc>
+		<PstCd>BF1 6ER</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 673</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 6ES</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 675</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 6EU</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 677</BfpoNum>
+		<Loc>Ascension Island</Loc>
+		<PstCd>BF1 6EX</PstCd>
+		<Ctry>Ascension</Ctry>
+		<CtryCd>AC</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 678</BfpoNum>
+		<Loc>Two Boats Ascension Island</Loc>
+		<PstCd>BF1 6EY</PstCd>
+		<Ctry>Ascension</Ctry>
+		<CtryCd>AC</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 679</BfpoNum>
+		<Loc>Ex Askari Thunder</Loc>
+		<PstCd>BF1 6EZ</PstCd>
+		<Type>exercise</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 680</BfpoNum>
+		<Loc>BATUK - Nanyuki</Loc>
+		<PstCd>BF1 6FA</PstCd>
+		<Ctry>Kenya</Ctry>
+		<CtryCd>KE</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 684</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 6FF</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 685</BfpoNum>
+		<Loc>OP TRAMAL/TAILPIN</Loc>
+		<PstCd>BF1 6FG</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 687</BfpoNum>
+		<Loc>OP KINGPIN</Loc>
+		<PstCd>BF1 6FJ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 689</BfpoNum>
+		<Loc>OP HALLEX</Loc>
+		<PstCd>BF1 6FN</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 690</BfpoNum>
+		<Loc>OP RECOMPOSE</Loc>
+		<PstCd>BF1 6FP</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 693</BfpoNum>
+		<Loc>RAF Det Cape Verde</Loc>
+		<PstCd>BF1 6GS</PstCd>
+		<Ctry>Africa</Ctry>
+		<CtryCd>AF</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 720</BfpoNum>
+		<Loc>OP TF PSYMA</Loc>
+		<PstCd>BF1 7BA</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 724</BfpoNum>
+		<Loc>OP ALUMINIUM</Loc>
+		<PstCd>BF1 7BF</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 727</BfpoNum>
+		<Loc>OP ALUMINIUM</Loc>
+		<PstCd>BF1 7BJ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 763</BfpoNum>
+		<Loc>OP ARENGA</Loc>
+		<PstCd>BF1 7EE</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 765</BfpoNum>
+		<Loc>OP ARENGA</Loc>
+		<PstCd>BF1 7EG</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 766</BfpoNum>
+		<Loc>OP ARENGA</Loc>
+		<PstCd>BF1 7EH</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 767</BfpoNum>
+		<Loc>OP KIPION</Loc>
+		<PstCd>BF1 7EJ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 769</BfpoNum>
+		<Loc>LST KIPION</Loc>
+		<PstCd>BF1 7EN</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 771</BfpoNum>
+		<Loc>OP CHAMBRAY</Loc>
+		<PstCd>BF1 7EQ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 773</BfpoNum>
+		<Loc>OP ALUMINIUM</Loc>
+		<PstCd>BF1 5SS</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 774</BfpoNum>
+		<Loc>OP SHADER</Loc>
+		<PstCd>BF1 5ST</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 775</BfpoNum>
+		<Loc>OP TIMBERN</Loc>
+		<PstCd>BF1 5SU</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 776</BfpoNum>
+		<Loc>OP ALUMINIUM</Loc>
+		<PstCd>BF1 5SW</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 778</BfpoNum>
+		<Loc>OP INTERCHANGE</Loc>
+		<PstCd>BF1 7EY</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 779</BfpoNum>
+		<Loc>OP KIPION</Loc>
+		<PstCd>BF1 7EZ</PstCd>
+		<Type>operation</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 801</BfpoNum>
+		<Loc>Lisburn</Loc>
+		<PstCd>BF1 1AA</PstCd>
+		<Ctry>United Kingdom</Ctry>
+		<CtryCd>GB</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 805</BfpoNum>
+		<Loc>Ballykinler</Loc>
+		<PstCd>BF1 1AD</PstCd>
+		<Ctry>United Kingdom</Ctry>
+		<CtryCd>GB</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 806</BfpoNum>
+		<Loc>Holywood</Loc>
+		<PstCd>BF1 1AE</PstCd>
+		<Ctry>United Kingdom</Ctry>
+		<CtryCd>GB</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 808</BfpoNum>
+		<Loc>Aldergrove</Loc>
+		<PstCd>BF1 1AG</PstCd>
+		<Ctry>United Kingdom</Ctry>
+		<CtryCd>GB</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 900</BfpoNum>
+		<Loc>Northolt</Loc>
+		<PstCd>BF1 1AJ</PstCd>
+		<Ctry>United Kingdom</Ctry>
+		<CtryCd>GB</CtryCd>
+		<Type>static</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5003</BfpoNum>
+		<Loc>Floater</Loc>
+		<PstCd>BF1 8AD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5004</BfpoNum>
+		<Loc>Monterrey</Loc>
+		<PstCd>BF1 8AE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5009</BfpoNum>
+		<Loc>Bamako (Via Dakar)</Loc>
+		<PstCd>BF1 8AL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5015</BfpoNum>
+		<Loc>Dushanbe</Loc>
+		<PstCd>BF1 8AT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5052</BfpoNum>
+		<Loc>Pitcairn Islands</Loc>
+		<PstCd>BF1 8DQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5053</BfpoNum>
+		<Loc>Plymouth</Loc>
+		<PstCd>BF1 8DR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5054</BfpoNum>
+		<Loc>Denver</Loc>
+		<PstCd>BF1 8DS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5055</BfpoNum>
+		<Loc>Burundi</Loc>
+		<PstCd>BF1 8DT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5102</BfpoNum>
+		<Loc>Chisinau</Loc>
+		<PstCd>BF1 8GB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5200</BfpoNum>
+		<Loc>Pristina</Loc>
+		<PstCd>BF1 8NZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5201</BfpoNum>
+		<Loc>Copenhagen</Loc>
+		<PstCd>BF1 8PA</PstCd>
+		<Ctry>Denmark</Ctry>
+		<CtryCd>DK</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5202</BfpoNum>
+		<Loc>Oslo</Loc>
+		<PstCd>BF1 8PB</PstCd>
+		<Ctry>Norway</Ctry>
+		<CtryCd>NO</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5203</BfpoNum>
+		<Loc>Moscow</Loc>
+		<PstCd>BF1 8PD</PstCd>
+		<Ctry>Russia</Ctry>
+		<CtryCd>RU</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5204</BfpoNum>
+		<Loc>Riga</Loc>
+		<PstCd>BF1 8PE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5205</BfpoNum>
+		<Loc>Stockholm</Loc>
+		<PstCd>BF1 8PF</PstCd>
+		<Ctry>Sweden</Ctry>
+		<CtryCd>SE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5206</BfpoNum>
+		<Loc>Tallinn</Loc>
+		<PstCd>BF1 8PG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5207</BfpoNum>
+		<Loc>Helsinki</Loc>
+		<PstCd>BF1 8PH</PstCd>
+		<Ctry>Finland</Ctry>
+		<CtryCd>FI</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5208</BfpoNum>
+		<Loc>Reykjavik</Loc>
+		<PstCd>BF1 8PJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5210</BfpoNum>
+		<Loc>Vilnius</Loc>
+		<PstCd>BF1 8PN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5211</BfpoNum>
+		<Loc>Dusseldorf</Loc>
+		<PstCd>BF1 8PP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5212</BfpoNum>
+		<Loc>Frankfurt</Loc>
+		<PstCd>BF1 8PQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5213</BfpoNum>
+		<Loc>Hamburg</Loc>
+		<PstCd>BF1 8PR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5214</BfpoNum>
+		<Loc>Hanover</Loc>
+		<PstCd>BF1 8PS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5215</BfpoNum>
+		<Loc>Munich</Loc>
+		<PstCd>BF1 8PT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5216</BfpoNum>
+		<Loc>Stuttgart</Loc>
+		<PstCd>BF1 8PU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5217</BfpoNum>
+		<Loc>St Petersburg</Loc>
+		<PstCd>BF1 8PW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5218</BfpoNum>
+		<Loc>Luxembourg</Loc>
+		<PstCd>BF1 8PX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5219</BfpoNum>
+		<Loc>The Hague</Loc>
+		<PstCd>BF1 8PY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5220</BfpoNum>
+		<Loc>Amsterdam</Loc>
+		<PstCd>BF1 8PZ</PstCd>
+		<Ctry>Netherlands</Ctry>
+		<CtryCd>NL</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5221</BfpoNum>
+		<Loc>Kiev</Loc>
+		<PstCd>BF1 8QA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5222</BfpoNum>
+		<Loc>Brussels (Emb)</Loc>
+		<PstCd>BF1 8QB</PstCd>
+		<Ctry>Belgium</Ctry>
+		<CtryCd>BE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5223</BfpoNum>
+		<Loc>Antwerp</Loc>
+		<PstCd>BF1 8QD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5224</BfpoNum>
+		<Loc>Brussels (Nato)</Loc>
+		<PstCd>BF1 8QE</PstCd>
+		<Ctry>Belgium</Ctry>
+		<CtryCd>BE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5225</BfpoNum>
+		<Loc>Paris Emb</Loc>
+		<PstCd>BF1 8QF</PstCd>
+		<Ctry>France</Ctry>
+		<CtryCd>FR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5226</BfpoNum>
+		<Loc>Bordeaux</Loc>
+		<PstCd>BF1 8QG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5227</BfpoNum>
+		<Loc>Calais</Loc>
+		<PstCd>BF1 8QH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5228</BfpoNum>
+		<Loc>Le Havre</Loc>
+		<PstCd>BF1 8QJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5229</BfpoNum>
+		<Loc>Lille</Loc>
+		<PstCd>BF1 8QL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5230</BfpoNum>
+		<Loc>Lyon</Loc>
+		<PstCd>BF1 8QN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5231</BfpoNum>
+		<Loc>Marseille</Loc>
+		<PstCd>BF1 8QP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5232</BfpoNum>
+		<Loc>Nice</Loc>
+		<PstCd>BF1 8QQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5233</BfpoNum>
+		<Loc>Strasbourg</Loc>
+		<PstCd>BF1 8QR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5234</BfpoNum>
+		<Loc>Paris OECD</Loc>
+		<PstCd>BF1 8QS</PstCd>
+		<Ctry>France</Ctry>
+		<CtryCd>FR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5235</BfpoNum>
+		<Loc>Madrid</Loc>
+		<PstCd>BF1 8QT</PstCd>
+		<Ctry>Spain</Ctry>
+		<CtryCd>ES</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5236</BfpoNum>
+		<Loc>Barcelona</Loc>
+		<PstCd>BF1 8QU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5237</BfpoNum>
+		<Loc>Bilboa</Loc>
+		<PstCd>BF1 8QW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5238</BfpoNum>
+		<Loc>Palma de  Mallorca</Loc>
+		<PstCd>BF1 8QX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5239</BfpoNum>
+		<Loc>Seville</Loc>
+		<PstCd>BF1 8QY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5240</BfpoNum>
+		<Loc>Alicante</Loc>
+		<PstCd>BF1 8QZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5241</BfpoNum>
+		<Loc>Lisbon</Loc>
+		<PstCd>BF1 8RA</PstCd>
+		<Ctry>Portugal</Ctry>
+		<CtryCd>PT</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5242</BfpoNum>
+		<Loc>Oporto</Loc>
+		<PstCd>BF1 8RB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5244</BfpoNum>
+		<Loc>Rome</Loc>
+		<PstCd>BF1 8RE</PstCd>
+		<Ctry>Italy</Ctry>
+		<CtryCd>IT</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5245</BfpoNum>
+		<Loc>Holy See</Loc>
+		<PstCd>BF1 8RF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5246</BfpoNum>
+		<Loc>Florence</Loc>
+		<PstCd>BF1 8RG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5247</BfpoNum>
+		<Loc>Malaga</Loc>
+		<PstCd>BF1 8RH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5248</BfpoNum>
+		<Loc>Genoa</Loc>
+		<PstCd>BF1 8RJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5249</BfpoNum>
+		<Loc>Milan</Loc>
+		<PstCd>BF1 8RL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5250</BfpoNum>
+		<Loc>Venice</Loc>
+		<PstCd>BF1 8RN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5251</BfpoNum>
+		<Loc>Naples</Loc>
+		<PstCd>BF1 8RP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5252</BfpoNum>
+		<Loc>Chongqing</Loc>
+		<PstCd>BF1 8RQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5253</BfpoNum>
+		<Loc>Split</Loc>
+		<PstCd>BF1 8RR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5254</BfpoNum>
+		<Loc>Berne</Loc>
+		<PstCd>BF1 8RS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5256</BfpoNum>
+		<Loc>Podgorica</Loc>
+		<PstCd>BF1 8RU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5258</BfpoNum>
+		<Loc>Zurich</Loc>
+		<PstCd>BF1 8RX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5260</BfpoNum>
+		<Loc>Vienna</Loc>
+		<PstCd>BF1 8RZ</PstCd>
+		<Ctry>Austria</Ctry>
+		<CtryCd>AT</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5261</BfpoNum>
+		<Loc>Innsbruck</Loc>
+		<PstCd>BF1 8SA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5262</BfpoNum>
+		<Loc>Warsaw</Loc>
+		<PstCd>BF1 8SB</PstCd>
+		<Ctry>Poland</Ctry>
+		<CtryCd>PL</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5263</BfpoNum>
+		<Loc>Budapest</Loc>
+		<PstCd>BF1 8SD</PstCd>
+		<Ctry>Hungary</Ctry>
+		<CtryCd>HU</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5264</BfpoNum>
+		<Loc>Prague</Loc>
+		<PstCd>BF1 8SE</PstCd>
+		<Ctry>Czech Republic</Ctry>
+		<CtryCd>CZ</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5265</BfpoNum>
+		<Loc>Sofia</Loc>
+		<PstCd>BF1 8SF</PstCd>
+		<Ctry>Bulgaria</Ctry>
+		<CtryCd>BG</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5266</BfpoNum>
+		<Loc>Bucharest</Loc>
+		<PstCd>BF1 8SG</PstCd>
+		<Ctry>Romania</Ctry>
+		<CtryCd>RO</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5267</BfpoNum>
+		<Loc>Belgrade</Loc>
+		<PstCd>BF1 8SH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5269</BfpoNum>
+		<Loc>Zagreb</Loc>
+		<PstCd>BF1 8SL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5270</BfpoNum>
+		<Loc>Athens</Loc>
+		<PstCd>BF1 8SN</PstCd>
+		<Ctry>Greece</Ctry>
+		<CtryCd>GR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5272</BfpoNum>
+		<Loc>Nicosia</Loc>
+		<PstCd>BF1 8SQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5273</BfpoNum>
+		<Loc>Valletta</Loc>
+		<PstCd>BF1 8SR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5274</BfpoNum>
+		<Loc>Gibraltar</Loc>
+		<PstCd>BF1 8SS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5275</BfpoNum>
+		<Loc>Dublin</Loc>
+		<PstCd>BF1 8ST</PstCd>
+		<Ctry>Ireland</Ctry>
+		<CtryCd>IE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5277</BfpoNum>
+		<Loc>Las Palmas</Loc>
+		<PstCd>BF1 8SW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5279</BfpoNum>
+		<Loc>Geneva</Loc>
+		<PstCd>BF1 8SY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5281</BfpoNum>
+		<Loc>Brussels (UKRep)</Loc>
+		<PstCd>BF1 8TA</PstCd>
+		<Ctry>Belgium</Ctry>
+		<CtryCd>BE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5282</BfpoNum>
+		<Loc>Berlin</Loc>
+		<PstCd>BF1 8TB</PstCd>
+		<Ctry>Germany</Ctry>
+		<CtryCd>DE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5286</BfpoNum>
+		<Loc>Ekateringburg</Loc>
+		<PstCd>BF1 8TG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5287</BfpoNum>
+		<Loc>Ljubljana</Loc>
+		<PstCd>BF1 8TH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5288</BfpoNum>
+		<Loc>Tirana</Loc>
+		<PstCd>BF1 8TJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5289</BfpoNum>
+		<Loc>Bratislava</Loc>
+		<PstCd>BF1 8TL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5290</BfpoNum>
+		<Loc>Skopje</Loc>
+		<PstCd>BF1 8TN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5291</BfpoNum>
+		<Loc>Ashgabat</Loc>
+		<PstCd>BF1 8TP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5292</BfpoNum>
+		<Loc>Muscat A</Loc>
+		<PstCd>BF1 8TQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5295</BfpoNum>
+		<Loc>Tbilisi</Loc>
+		<PstCd>BF1 8TT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5296</BfpoNum>
+		<Loc>Port Harcourt</Loc>
+		<PstCd>BF1 8TU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5297</BfpoNum>
+		<Loc>Rhodes</Loc>
+		<PstCd>BF1 8TW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5298</BfpoNum>
+		<Loc>Yerevan</Loc>
+		<PstCd>BF1 8TX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5302</BfpoNum>
+		<Loc>Casablanca</Loc>
+		<PstCd>BF1 8UB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5303</BfpoNum>
+		<Loc>Rabat</Loc>
+		<PstCd>BF1 8UD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5304</BfpoNum>
+		<Loc>Tunis</Loc>
+		<PstCd>BF1 8UE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5305</BfpoNum>
+		<Loc>Cairo</Loc>
+		<PstCd>BF1 8UF</PstCd>
+		<Ctry>Egypt</Ctry>
+		<CtryCd>EG</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5306</BfpoNum>
+		<Loc>Alexandria</Loc>
+		<PstCd>BF1 8UG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5307</BfpoNum>
+		<Loc>Tripoli</Loc>
+		<PstCd>BF1 8UH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5308</BfpoNum>
+		<Loc>Tangier</Loc>
+		<PstCd>BF1 8UJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5309</BfpoNum>
+		<Loc>Algiers</Loc>
+		<PstCd>BF1 8UL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5310</BfpoNum>
+		<Loc>Asmara</Loc>
+		<PstCd>BF1 8UN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5311</BfpoNum>
+		<Loc>Addis Ababa</Loc>
+		<PstCd>BF1 8UP</PstCd>
+		<Ctry>Ethiopia</Ctry>
+		<CtryCd>ET</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5312</BfpoNum>
+		<Loc>Khartoum</Loc>
+		<PstCd>BF1 8UQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5313</BfpoNum>
+		<Loc>Juba</Loc>
+		<PstCd>BF1 8UR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5314</BfpoNum>
+		<Loc>Mogadishu</Loc>
+		<PstCd>BF1 8US</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5315</BfpoNum>
+		<Loc>Nairobi</Loc>
+		<PstCd>BF1 8UT</PstCd>
+		<Ctry>Kenya</Ctry>
+		<CtryCd>KE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5316</BfpoNum>
+		<Loc>Mombasa</Loc>
+		<PstCd>BF1 8UU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5317</BfpoNum>
+		<Loc>Accra</Loc>
+		<PstCd>BF1 8UW</PstCd>
+		<Ctry>Ghana</Ctry>
+		<CtryCd>GH</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5318</BfpoNum>
+		<Loc>Kampala</Loc>
+		<PstCd>BF1 8UX</PstCd>
+		<Ctry>Uganda</Ctry>
+		<CtryCd>UG</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5319</BfpoNum>
+		<Loc>Kinshasa</Loc>
+		<PstCd>BF1 8UY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5320</BfpoNum>
+		<Loc>Brazzaville</Loc>
+		<PstCd>BF1 8UZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5321</BfpoNum>
+		<Loc>Libreville</Loc>
+		<PstCd>BF1 8WA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5322</BfpoNum>
+		<Loc>Yaounde</Loc>
+		<PstCd>BF1 8WB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5323</BfpoNum>
+		<Loc>Bujumbura</Loc>
+		<PstCd>BF1 8WD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5325</BfpoNum>
+		<Loc>Dakar</Loc>
+		<PstCd>BF1 8WF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5326</BfpoNum>
+		<Loc>Monrovia</Loc>
+		<PstCd>BF1 8WG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5327</BfpoNum>
+		<Loc>N'Djamena</Loc>
+		<PstCd>BF1 8WH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5328</BfpoNum>
+		<Loc>Banjul</Loc>
+		<PstCd>BF1 8WJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5329</BfpoNum>
+		<Loc>Luanda</Loc>
+		<PstCd>BF1 8WL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5330</BfpoNum>
+		<Loc>Lusaka</Loc>
+		<PstCd>BF1 8WN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5331</BfpoNum>
+		<Loc>Niamey</Loc>
+		<PstCd>BF1 8WP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5333</BfpoNum>
+		<Loc>Harare</Loc>
+		<PstCd>BF1 8WR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5334</BfpoNum>
+		<Loc>Windhoek</Loc>
+		<PstCd>BF1 8WS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5335</BfpoNum>
+		<Loc>Adidjan</Loc>
+		<PstCd>BF1 8WT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5336</BfpoNum>
+		<Loc>Antananarivo</Loc>
+		<PstCd>BF1 8WU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5337</BfpoNum>
+		<Loc>Port Louis (Mauritius)</Loc>
+		<PstCd>BF1 8WW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5338</BfpoNum>
+		<Loc>Cape town</Loc>
+		<PstCd>BF1 8WX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5339</BfpoNum>
+		<Loc>Pretoria</Loc>
+		<PstCd>BF1 8WY</PstCd>
+		<Ctry>South Africa</Ctry>
+		<CtryCd>ZA</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5340</BfpoNum>
+		<Loc>Durban</Loc>
+		<PstCd>BF1 8WZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5341</BfpoNum>
+		<Loc>Johannesburg</Loc>
+		<PstCd>BF1 8XA</PstCd>
+		<Ctry>South Africa</Ctry>
+		<CtryCd>ZA</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5342</BfpoNum>
+		<Loc>Tristan Da Cuhna</Loc>
+		<PstCd>BF1 8XB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5343</BfpoNum>
+		<Loc>Gaborone</Loc>
+		<PstCd>BF1 8XD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5344</BfpoNum>
+		<Loc>Maputo</Loc>
+		<PstCd>BF1 8XE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5345</BfpoNum>
+		<Loc>Beira</Loc>
+		<PstCd>BF1 8XF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5346</BfpoNum>
+		<Loc>Freetown</Loc>
+		<PstCd>BF1 8XG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5347</BfpoNum>
+		<Loc>Dar Es Salaam</Loc>
+		<PstCd>BF1 8XH</PstCd>
+		<Ctry>Tanzania</Ctry>
+		<CtryCd>TZ</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5348</BfpoNum>
+		<Loc>Lagos</Loc>
+		<PstCd>BF1 8XJ</PstCd>
+		<Ctry>Nigeria</Ctry>
+		<CtryCd>NG</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5350</BfpoNum>
+		<Loc>Kano</Loc>
+		<PstCd>BF1 8XN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5351</BfpoNum>
+		<Loc>Kaduna</Loc>
+		<PstCd>BF1 8XP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5352</BfpoNum>
+		<Loc>Maseru</Loc>
+		<PstCd>BF1 8XQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5354</BfpoNum>
+		<Loc>Mbabane (Via pretoria)</Loc>
+		<PstCd>BF1 8XS</PstCd>
+		<Ctry>South Africa</Ctry>
+		<CtryCd>ZA</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5355</BfpoNum>
+		<Loc>Victoria</Loc>
+		<PstCd>BF1 8XT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5356</BfpoNum>
+		<Loc>Lilongwe</Loc>
+		<PstCd>BF1 8XU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5357</BfpoNum>
+		<Loc>Abuja</Loc>
+		<PstCd>BF1 8XW</PstCd>
+		<Ctry>Nigeria</Ctry>
+		<CtryCd>NG</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5401</BfpoNum>
+		<Loc>Ankara</Loc>
+		<PstCd>BF1 9AA</PstCd>
+		<Ctry>Turkey</Ctry>
+		<CtryCd>TR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5403</BfpoNum>
+		<Loc>Istanbul</Loc>
+		<PstCd>BF1 9AD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5404</BfpoNum>
+		<Loc>Tel Aviv</Loc>
+		<PstCd>BF1 9AE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5406</BfpoNum>
+		<Loc>Amman</Loc>
+		<PstCd>BF1 9AG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5407</BfpoNum>
+		<Loc>Jerusalem</Loc>
+		<PstCd>BF1 9AH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5408</BfpoNum>
+		<Loc>Beirut</Loc>
+		<PstCd>BF1 9AJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5409</BfpoNum>
+		<Loc>Astana</Loc>
+		<PstCd>BF1 9AL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5410</BfpoNum>
+		<Loc>Almaty</Loc>
+		<PstCd>BF1 9AN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5411</BfpoNum>
+		<Loc>Damascus</Loc>
+		<PstCd>BF1 9AP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5413</BfpoNum>
+		<Loc>Abu Dhabi</Loc>
+		<PstCd>BF1 9AR</PstCd>
+		<Ctry>United Arab Emirates</Ctry>
+		<CtryCd>AE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5414</BfpoNum>
+		<Loc>Bahrain</Loc>
+		<PstCd>BF1 9AS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5415</BfpoNum>
+		<Loc>Doha</Loc>
+		<PstCd>BF1 9AT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5416</BfpoNum>
+		<Loc>Dubai</Loc>
+		<PstCd>BF1 9AU</PstCd>
+		<Ctry>United Arab Emirates</Ctry>
+		<CtryCd>AE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5417</BfpoNum>
+		<Loc>Muscat</Loc>
+		<PstCd>BF1 9AW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5418</BfpoNum>
+		<Loc>Jeddah</Loc>
+		<PstCd>BF1 9AX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5419</BfpoNum>
+		<Loc>Al Khobar</Loc>
+		<PstCd>BF1 9AY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5420</BfpoNum>
+		<Loc>Tehran</Loc>
+		<PstCd>BF1 9AZ</PstCd>
+		<Ctry>Iran</Ctry>
+		<CtryCd>IR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5421</BfpoNum>
+		<Loc>Riyadh</Loc>
+		<PstCd>BF1 9BA</PstCd>
+		<Ctry>Saudi Arabia</Ctry>
+		<CtryCd>SA</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5422</BfpoNum>
+		<Loc>Baghdad</Loc>
+		<PstCd>BF1 9BB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5423</BfpoNum>
+		<Loc>Basra</Loc>
+		<PstCd>BF1 9BD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5424</BfpoNum>
+		<Loc>Kuwait</Loc>
+		<PstCd>BF1 9BE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5425</BfpoNum>
+		<Loc>Erbil</Loc>
+		<PstCd>BF1 9BF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5426</BfpoNum>
+		<Loc>Kabul</Loc>
+		<PstCd>BF1 9BG</PstCd>
+		<Ctry>Afghanistan</Ctry>
+		<CtryCd>AF</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5427</BfpoNum>
+		<Loc>Kathmandu</Loc>
+		<PstCd>BF1 9BH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5428</BfpoNum>
+		<Loc>Karachi</Loc>
+		<PstCd>BF1 9BJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5430</BfpoNum>
+		<Loc>Dhaka</Loc>
+		<PstCd>BF1 9BN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5432</BfpoNum>
+		<Loc>Lahore</Loc>
+		<PstCd>BF1 9BQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5433</BfpoNum>
+		<Loc>Bangalore</Loc>
+		<PstCd>BF1 9BR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5434</BfpoNum>
+		<Loc>New Delhi</Loc>
+		<PstCd>BF1 9BS</PstCd>
+		<Ctry>India</Ctry>
+		<CtryCd>IN</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5435</BfpoNum>
+		<Loc>Mumbai (Bombay)</Loc>
+		<PstCd>BF1 9BT</PstCd>
+		<Ctry>India</Ctry>
+		<CtryCd>IN</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5436</BfpoNum>
+		<Loc>Kolkata (Calcutta)</Loc>
+		<PstCd>BF1 9BU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5437</BfpoNum>
+		<Loc>Chennai (Madras)</Loc>
+		<PstCd>BF1 9BW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5438</BfpoNum>
+		<Loc>Colombo</Loc>
+		<PstCd>BF1 9BX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5439</BfpoNum>
+		<Loc>Kuala Lumpar</Loc>
+		<PstCd>BF1 9BY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5440</BfpoNum>
+		<Loc>Kuching</Loc>
+		<PstCd>BF1 9BZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5441</BfpoNum>
+		<Loc>Bandar Seri Begawan</Loc>
+		<PstCd>BF1 9DA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5442</BfpoNum>
+		<Loc>Bangkok</Loc>
+		<PstCd>BF1 9DB</PstCd>
+		<Ctry>Thailand</Ctry>
+		<CtryCd>TH</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5444</BfpoNum>
+		<Loc>Seoul</Loc>
+		<PstCd>BF1 9DE</PstCd>
+		<Ctry>South Korea</Ctry>
+		<CtryCd>KR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5445</BfpoNum>
+		<Loc>Jakarta</Loc>
+		<PstCd>BF1 9DF</PstCd>
+		<Ctry>Indonesia</Ctry>
+		<CtryCd>ID</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5446</BfpoNum>
+		<Loc>Hong Kong</Loc>
+		<PstCd>BF1 9DG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5448</BfpoNum>
+		<Loc>Manila</Loc>
+		<PstCd>BF1 9DJ</PstCd>
+		<Ctry>Philippines</Ctry>
+		<CtryCd>PH</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5449</BfpoNum>
+		<Loc>Chiang Mai</Loc>
+		<PstCd>BF1 9DL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5450</BfpoNum>
+		<Loc>Hanoi</Loc>
+		<PstCd>BF1 9DN</PstCd>
+		<Ctry>Vietnam</Ctry>
+		<CtryCd>VN</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5452</BfpoNum>
+		<Loc>Singapore</Loc>
+		<PstCd>BF1 9DQ</PstCd>
+		<Ctry>Singapore</Ctry>
+		<CtryCd>SG</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5453</BfpoNum>
+		<Loc>Ventiane</Loc>
+		<PstCd>BF1 9DR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5454</BfpoNum>
+		<Loc>Rangoon</Loc>
+		<PstCd>BF1 9DS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5455</BfpoNum>
+		<Loc>Phnom Penh</Loc>
+		<PstCd>BF1 9DT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5456</BfpoNum>
+		<Loc>Ulaan Bataar</Loc>
+		<PstCd>BF1 9DU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5457</BfpoNum>
+		<Loc>Beijing (Peking)</Loc>
+		<PstCd>BF1 9DW</PstCd>
+		<Ctry>China</Ctry>
+		<CtryCd>CN</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5459</BfpoNum>
+		<Loc>Shanghai</Loc>
+		<PstCd>BF1 9DY</PstCd>
+		<Ctry>China</Ctry>
+		<CtryCd>CN</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5460</BfpoNum>
+		<Loc>Pyong Yang</Loc>
+		<PstCd>BF1 9DZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5461</BfpoNum>
+		<Loc>Tokyo</Loc>
+		<PstCd>BF1 9EA</PstCd>
+		<Ctry>Japan</Ctry>
+		<CtryCd>JP</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5462</BfpoNum>
+		<Loc>Osaka (Via Tokyo)</Loc>
+		<PstCd>BF1 9EB</PstCd>
+		<Ctry>Japan</Ctry>
+		<CtryCd>JP</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5466</BfpoNum>
+		<Loc>Islamabad</Loc>
+		<PstCd>BF1 9EG</PstCd>
+		<Ctry>Pakistan</Ctry>
+		<CtryCd>PK</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5467</BfpoNum>
+		<Loc>Sanaa</Loc>
+		<PstCd>BF1 9EH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5468</BfpoNum>
+		<Loc>Sarajevo</Loc>
+		<PstCd>BF1 9EJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5469</BfpoNum>
+		<Loc>Banja Luka</Loc>
+		<PstCd>BF1 9EL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5472</BfpoNum>
+		<Loc>Taipei</Loc>
+		<PstCd>BF1 9EQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5473</BfpoNum>
+		<Loc>Ho Chi Min City</Loc>
+		<PstCd>BF1 9ER</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5474</BfpoNum>
+		<Loc>Tashkent</Loc>
+		<PstCd>BF1 9ES</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5500</BfpoNum>
+		<Loc>Laos</Loc>
+		<PstCd>BF1 9FZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5501</BfpoNum>
+		<Loc>Ottawa</Loc>
+		<PstCd>BF1 9GA</PstCd>
+		<Ctry>Canada</Ctry>
+		<CtryCd>CA</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5503</BfpoNum>
+		<Loc>Halifax</Loc>
+		<PstCd>BF1 9GD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5504</BfpoNum>
+		<Loc>Montreal</Loc>
+		<PstCd>BF1 9GE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5505</BfpoNum>
+		<Loc>Quebec</Loc>
+		<PstCd>BF1 9GF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5507</BfpoNum>
+		<Loc>Toronto</Loc>
+		<PstCd>BF1 9GH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5509</BfpoNum>
+		<Loc>Vancouver</Loc>
+		<PstCd>BF1 9GL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5510</BfpoNum>
+		<Loc>Winnipeg</Loc>
+		<PstCd>BF1 9GN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5512</BfpoNum>
+		<Loc>Washington</Loc>
+		<PstCd>BF1 9GQ</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5513</BfpoNum>
+		<Loc>Atlanta</Loc>
+		<PstCd>BF1 9GR</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5514</BfpoNum>
+		<Loc>Boston</Loc>
+		<PstCd>BF1 9GS</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5515</BfpoNum>
+		<Loc>Chicago</Loc>
+		<PstCd>BF1 9GT</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5517</BfpoNum>
+		<Loc>Miami</Loc>
+		<PstCd>BF1 9GW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5519</BfpoNum>
+		<Loc>Dallas</Loc>
+		<PstCd>BF1 9GY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5520</BfpoNum>
+		<Loc>Houston</Loc>
+		<PstCd>BF1 9GZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5522</BfpoNum>
+		<Loc>Los Angeles</Loc>
+		<PstCd>BF1 9HB</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5526</BfpoNum>
+		<Loc>Philadelphia</Loc>
+		<PstCd>BF1 9HG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5529</BfpoNum>
+		<Loc>San Francisco</Loc>
+		<PstCd>BF1 9HL</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5530</BfpoNum>
+		<Loc>Seattle</Loc>
+		<PstCd>BF1 9HN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5531</BfpoNum>
+		<Loc>Mexico City</Loc>
+		<PstCd>BF1 9HP</PstCd>
+		<Ctry>Mexico</Ctry>
+		<CtryCd>MX</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5532</BfpoNum>
+		<Loc>Guatemala</Loc>
+		<PstCd>BF1 9HQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5533</BfpoNum>
+		<Loc>Tegucigalpa</Loc>
+		<PstCd>BF1 9HR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5534</BfpoNum>
+		<Loc>San Salvador</Loc>
+		<PstCd>BF1 9HS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5535</BfpoNum>
+		<Loc>Managua</Loc>
+		<PstCd>BF1 9HT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5536</BfpoNum>
+		<Loc>Panama City</Loc>
+		<PstCd>BF1 9HU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5537</BfpoNum>
+		<Loc>Bogota</Loc>
+		<PstCd>BF1 9HW</PstCd>
+		<Ctry>Colombia</Ctry>
+		<CtryCd>CO</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5538</BfpoNum>
+		<Loc>Caracus</Loc>
+		<PstCd>BF1 9HX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5539</BfpoNum>
+		<Loc>Montevideo</Loc>
+		<PstCd>BF1 9HY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5540</BfpoNum>
+		<Loc>Georgetown</Loc>
+		<PstCd>BF1 9HZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5541</BfpoNum>
+		<Loc>San Jose</Loc>
+		<PstCd>BF1 9JA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5542</BfpoNum>
+		<Loc>Santo Domingo</Loc>
+		<PstCd>BF1 9JB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5544</BfpoNum>
+		<Loc>La Paz</Loc>
+		<PstCd>BF1 9JE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5545</BfpoNum>
+		<Loc>Santiago</Loc>
+		<PstCd>BF1 9JF</PstCd>
+		<Ctry>Chile</Ctry>
+		<CtryCd>CL</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5546</BfpoNum>
+		<Loc>Buenos Aires</Loc>
+		<PstCd>BF1 9JG</PstCd>
+		<Ctry>Argentina</Ctry>
+		<CtryCd>AR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5547</BfpoNum>
+		<Loc>Rio De Janeiro</Loc>
+		<PstCd>BF1 9JH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5548</BfpoNum>
+		<Loc>Brasilia</Loc>
+		<PstCd>BF1 9JJ</PstCd>
+		<Ctry>Brazil</Ctry>
+		<CtryCd>BR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5549</BfpoNum>
+		<Loc>Sao Paulo</Loc>
+		<PstCd>BF1 9JL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5550</BfpoNum>
+		<Loc>Quito</Loc>
+		<PstCd>BF1 9JN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5551</BfpoNum>
+		<Loc>Paramaribo</Loc>
+		<PstCd>BF1 9JP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5552</BfpoNum>
+		<Loc>Asuncion</Loc>
+		<PstCd>BF1 9JQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5553</BfpoNum>
+		<Loc>Lima</Loc>
+		<PstCd>BF1 9JR</PstCd>
+		<Ctry>Peru</Ctry>
+		<CtryCd>PE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5554</BfpoNum>
+		<Loc>Havana</Loc>
+		<PstCd>BF1 9JS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5555</BfpoNum>
+		<Loc>Roseau</Loc>
+		<PstCd>BF1 9JT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5556</BfpoNum>
+		<Loc>Kingston</Loc>
+		<PstCd>BF1 9JU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5557</BfpoNum>
+		<Loc>Anguilla</Loc>
+		<PstCd>BF1 9JW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5558</BfpoNum>
+		<Loc>Curacao</Loc>
+		<PstCd>BF1 9JX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5559</BfpoNum>
+		<Loc>Nassau</Loc>
+		<PstCd>BF1 9JY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5560</BfpoNum>
+		<Loc>Bridgetown</Loc>
+		<PstCd>BF1 9JZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5561</BfpoNum>
+		<Loc>Hamilton</Loc>
+		<PstCd>BF1 9LA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5562</BfpoNum>
+		<Loc>Belmopan</Loc>
+		<PstCd>BF1 9LB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5563</BfpoNum>
+		<Loc>Castries</Loc>
+		<PstCd>BF1 9LD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5564</BfpoNum>
+		<Loc>Stanley</Loc>
+		<PstCd>BF1 9LE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5565</BfpoNum>
+		<Loc>Port of Spain</Loc>
+		<PstCd>BF1 9LF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5566</BfpoNum>
+		<Loc>Tortola</Loc>
+		<PstCd>BF1 9LG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5567</BfpoNum>
+		<Loc>St Johns</Loc>
+		<PstCd>BF1 9LH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5568</BfpoNum>
+		<Loc>Kingstown</Loc>
+		<PstCd>BF1 9LJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5569</BfpoNum>
+		<Loc>Port au Prince</Loc>
+		<PstCd>BF1 9LL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5570</BfpoNum>
+		<Loc>Montserrat</Loc>
+		<PstCd>BF1 9LN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5571</BfpoNum>
+		<Loc>Grenada</Loc>
+		<PstCd>BF1 9LP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5572</BfpoNum>
+		<Loc>Grand Turk</Loc>
+		<PstCd>BF1 9LQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5573</BfpoNum>
+		<Loc>St Helena</Loc>
+		<PstCd>BF1 9LR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5574</BfpoNum>
+		<Loc>Ascension</Loc>
+		<PstCd>BF1 9LS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5578</BfpoNum>
+		<Loc>Minsk</Loc>
+		<PstCd>BF1 9LX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5579</BfpoNum>
+		<Loc>Baku</Loc>
+		<PstCd>BF1 9LY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5580</BfpoNum>
+		<Loc>GuangZhou</Loc>
+		<PstCd>BF1 9LZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5581</BfpoNum>
+		<Loc>Male'</Loc>
+		<PstCd>BF1 9NA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5600</BfpoNum>
+		<Loc>Wuhan</Loc>
+		<PstCd>BF1 9NZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5601</BfpoNum>
+		<Loc>Canberra</Loc>
+		<PstCd>BF1 9PA</PstCd>
+		<Ctry>Australia</Ctry>
+		<CtryCd>AU</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5603</BfpoNum>
+		<Loc>Brisbane</Loc>
+		<PstCd>BF1 9PD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5605</BfpoNum>
+		<Loc>Melbourne</Loc>
+		<PstCd>BF1 9PF</PstCd>
+		<Ctry>Australia</Ctry>
+		<CtryCd>AU</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5606</BfpoNum>
+		<Loc>Perth</Loc>
+		<PstCd>BF1 9PG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5607</BfpoNum>
+		<Loc>Sydney</Loc>
+		<PstCd>BF1 9PH</PstCd>
+		<Ctry>Australia</Ctry>
+		<CtryCd>AU</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5608</BfpoNum>
+		<Loc>Wellington</Loc>
+		<PstCd>BF1 9PJ</PstCd>
+		<Ctry>New Zealand</Ctry>
+		<CtryCd>NZ</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5609</BfpoNum>
+		<Loc>Auckland</Loc>
+		<PstCd>BF1 9PL</PstCd>
+		<Ctry>New Zealand</Ctry>
+		<CtryCd>NZ</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5610</BfpoNum>
+		<Loc>Christchurch</Loc>
+		<PstCd>BF1 9PN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5611</BfpoNum>
+		<Loc>Suva</Loc>
+		<PstCd>BF1 9PP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5612</BfpoNum>
+		<Loc>Honiara</Loc>
+		<PstCd>BF1 9PQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5613</BfpoNum>
+		<Loc>Nukualofa</Loc>
+		<PstCd>BF1 9PR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5614</BfpoNum>
+		<Loc>Apia</Loc>
+		<PstCd>BF1 9PS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5615</BfpoNum>
+		<Loc>Port Vila</Loc>
+		<PstCd>BF1 9PT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5617</BfpoNum>
+		<Loc>Port Moresby</Loc>
+		<PstCd>BF1 9PW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5618</BfpoNum>
+		<Loc>Darwin</Loc>
+		<PstCd>BF1 9PX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5700</BfpoNum>
+		<Loc>Hyderabad</Loc>
+		<PstCd>BF1 9TZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5712</BfpoNum>
+		<Loc>Chandigarh</Loc>
+		<PstCd>BF1 9UQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5713</BfpoNum>
+		<Loc>Goa</Loc>
+		<PstCd>BF1 9UR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5714</BfpoNum>
+		<Loc>Goma</Loc>
+		<PstCd>BF1 9US</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5715</BfpoNum>
+		<Loc>Hargeisa</Loc>
+		<PstCd>BF1 9UT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5716</BfpoNum>
+		<Loc>Ahmedabad</Loc>
+		<PstCd>BF1 9UU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5750</BfpoNum>
+		<Loc>BishKek</Loc>
+		<PstCd>BF1 9XN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5753</BfpoNum>
+		<Loc>Bodrum</Loc>
+		<PstCd>BF1 9XR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5755</BfpoNum>
+		<Loc>Nouakchott</Loc>
+		<PstCd>BF1 9XT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5756</BfpoNum>
+		<Loc>Corfu</Loc>
+		<PstCd>BF1 9XU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5757</BfpoNum>
+		<Loc>Djibouti</Loc>
+		<PstCd>BF1 9XW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5758</BfpoNum>
+		<Loc>Sao Tome (Principe)</Loc>
+		<PstCd>BF1 9XX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5761</BfpoNum>
+		<Loc>George Town</Loc>
+		<PstCd>BF1 9YA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5762</BfpoNum>
+		<Loc>Heraklion</Loc>
+		<PstCd>BF1 9YB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5765</BfpoNum>
+		<Loc>Ibiza</Loc>
+		<PstCd>BF1 9YF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5766</BfpoNum>
+		<Loc>Izmir</Loc>
+		<PstCd>BF1 9YG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5768</BfpoNum>
+		<Loc>Kigali</Loc>
+		<PstCd>BF1 9YJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5770</BfpoNum>
+		<Loc>Lome</Loc>
+		<PstCd>BF1 9YN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5774</BfpoNum>
+		<Loc>New York</Loc>
+		<PstCd>BF1 9YS</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5777</BfpoNum>
+		<Loc>Conakry</Loc>
+		<PstCd>BF1 9YW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5782</BfpoNum>
+		<Loc>Santa Cruz De Tenerife</Loc>
+		<PstCd>BF1 9ZB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5783</BfpoNum>
+		<Loc>Thorshavn</Loc>
+		<PstCd>BF1 9ZD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5800</BfpoNum>
+		<Loc>Andorra La Vella</Loc>
+		<PstCd>BF1 9ZZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5802</BfpoNum>
+		<Loc>Bregenz</Loc>
+		<PstCd>BF2 0AB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5803</BfpoNum>
+		<Loc>Graz</Loc>
+		<PstCd>BF2 0AD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5804</BfpoNum>
+		<Loc>Salzberg</Loc>
+		<PstCd>BF2 0AE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5805</BfpoNum>
+		<Loc>S. Miguel</Loc>
+		<PstCd>BF2 0AF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5806</BfpoNum>
+		<Loc>Sylhet</Loc>
+		<PstCd>BF2 0AG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5807</BfpoNum>
+		<Loc>Ghent</Loc>
+		<PstCd>BF2 0AH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5808</BfpoNum>
+		<Loc>Manaus</Loc>
+		<PstCd>BF2 0AJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5809</BfpoNum>
+		<Loc>Fortaleza</Loc>
+		<PstCd>BF2 0AL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5810</BfpoNum>
+		<Loc>Salvador</Loc>
+		<PstCd>BF2 0AN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5811</BfpoNum>
+		<Loc>Porto Alegre</Loc>
+		<PstCd>BF2 0AP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5812</BfpoNum>
+		<Loc>Santos</Loc>
+		<PstCd>BF2 0AQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5813</BfpoNum>
+		<Loc>Belem</Loc>
+		<PstCd>BF2 0AR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5814</BfpoNum>
+		<Loc>Belo Horizonte</Loc>
+		<PstCd>BF2 0AS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5815</BfpoNum>
+		<Loc>Recife</Loc>
+		<PstCd>BF2 0AT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5816</BfpoNum>
+		<Loc>Curitiba</Loc>
+		<PstCd>BF2 0AU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5817</BfpoNum>
+		<Loc>Rio Grande</Loc>
+		<PstCd>BF2 0AW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5818</BfpoNum>
+		<Loc>Vama</Loc>
+		<PstCd>BF2 0AX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5819</BfpoNum>
+		<Loc>Ouagadougou</Loc>
+		<PstCd>BF2 0AY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5820</BfpoNum>
+		<Loc>Sihanouk Ville</Loc>
+		<PstCd>BF2 0AZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5821</BfpoNum>
+		<Loc>St Johns Newfoundland</Loc>
+		<PstCd>BF2 0BA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5822</BfpoNum>
+		<Loc>Dubrovnik</Loc>
+		<PstCd>BF2 0BB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5823</BfpoNum>
+		<Loc>Punta Arenas</Loc>
+		<PstCd>BF2 0BD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5824</BfpoNum>
+		<Loc>Valparaiso</Loc>
+		<PstCd>BF2 0BE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5825</BfpoNum>
+		<Loc>Puerto Montt</Loc>
+		<PstCd>BF2 0BF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5826</BfpoNum>
+		<Loc>Cali</Loc>
+		<PstCd>BF2 0BG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5827</BfpoNum>
+		<Loc>Medellin</Loc>
+		<PstCd>BF2 0BH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5828</BfpoNum>
+		<Loc>Rarotonga</Loc>
+		<PstCd>BF2 0BJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5829</BfpoNum>
+		<Loc>Aabenraa</Loc>
+		<PstCd>BF2 0BL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5830</BfpoNum>
+		<Loc>Alborg</Loc>
+		<PstCd>BF2 0BN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5831</BfpoNum>
+		<Loc>Arhus</Loc>
+		<PstCd>BF2 0BP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5832</BfpoNum>
+		<Loc>Esbjerg</Loc>
+		<PstCd>BF2 0BQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5833</BfpoNum>
+		<Loc>Frederica</Loc>
+		<PstCd>BF2 0BR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5834</BfpoNum>
+		<Loc>Herning</Loc>
+		<PstCd>BF2 0BS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5835</BfpoNum>
+		<Loc>Odense</Loc>
+		<PstCd>BF2 0BT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5836</BfpoNum>
+		<Loc>Puerta Plata</Loc>
+		<PstCd>BF2 0BU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5837</BfpoNum>
+		<Loc>Guayaquil</Loc>
+		<PstCd>BF2 0BW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5838</BfpoNum>
+		<Loc>Galapagos</Loc>
+		<PstCd>BF2 0BX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5839</BfpoNum>
+		<Loc>Luxor</Loc>
+		<PstCd>BF2 0BY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5840</BfpoNum>
+		<Loc>Suez</Loc>
+		<PstCd>BF2 0BZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5841</BfpoNum>
+		<Loc>Jyvaskyla</Loc>
+		<PstCd>BF2 0DA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5842</BfpoNum>
+		<Loc>Kotka</Loc>
+		<PstCd>BF2 0DB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5843</BfpoNum>
+		<Loc>Kuopio</Loc>
+		<PstCd>BF2 0DD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5844</BfpoNum>
+		<Loc>Aland islands</Loc>
+		<PstCd>BF2 0DE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5845</BfpoNum>
+		<Loc>Oulu</Loc>
+		<PstCd>BF2 0DF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5846</BfpoNum>
+		<Loc>Tampere</Loc>
+		<PstCd>BF2 0DG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5847</BfpoNum>
+		<Loc>Turku</Loc>
+		<PstCd>BF2 0DH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5848</BfpoNum>
+		<Loc>Vaasa</Loc>
+		<PstCd>BF2 0DJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5849</BfpoNum>
+		<Loc>Roveniemi</Loc>
+		<PstCd>BF2 0DL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5850</BfpoNum>
+		<Loc>Paris</Loc>
+		<PstCd>BF2 0DN</PstCd>
+		<Ctry>France</Ctry>
+		<CtryCd>FR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5851</BfpoNum>
+		<Loc>Amiens</Loc>
+		<PstCd>BF2 0DP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5852</BfpoNum>
+		<Loc>New Caledonia</Loc>
+		<PstCd>BF2 0DQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5853</BfpoNum>
+		<Loc>St Malo</Loc>
+		<PstCd>BF2 0DR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5854</BfpoNum>
+		<Loc>Toulouse</Loc>
+		<PstCd>BF2 0DS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5855</BfpoNum>
+		<Loc>Tours</Loc>
+		<PstCd>BF2 0DT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5856</BfpoNum>
+		<Loc>La Reunion</Loc>
+		<PstCd>BF2 0DU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5857</BfpoNum>
+		<Loc>Papeete</Loc>
+		<PstCd>BF2 0DW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5858</BfpoNum>
+		<Loc>Fort De France</Loc>
+		<PstCd>BF2 0DX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5859</BfpoNum>
+		<Loc>Guadeloupe</Loc>
+		<PstCd>BF2 0DY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5860</BfpoNum>
+		<Loc>Lorient</Loc>
+		<PstCd>BF2 0DZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5861</BfpoNum>
+		<Loc>Montpelier</Loc>
+		<PstCd>BF2 0EA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5862</BfpoNum>
+		<Loc>Nantes</Loc>
+		<PstCd>BF2 0EB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5863</BfpoNum>
+		<Loc>Boulogne-Sur-Mer</Loc>
+		<PstCd>BF2 0ED</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5864</BfpoNum>
+		<Loc>Cherbourg</Loc>
+		<PstCd>BF2 0EE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5865</BfpoNum>
+		<Loc>Clermont-Ferrend</Loc>
+		<PstCd>BF2 0EF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5866</BfpoNum>
+		<Loc>Dunkirk</Loc>
+		<PstCd>BF2 0EG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5867</BfpoNum>
+		<Loc>Cayenne</Loc>
+		<PstCd>BF2 0EH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5868</BfpoNum>
+		<Loc>Bremen</Loc>
+		<PstCd>BF2 0EJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5869</BfpoNum>
+		<Loc>Kiel</Loc>
+		<PstCd>BF2 0EL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5870</BfpoNum>
+		<Loc>Nuremberg</Loc>
+		<PstCd>BF2 0EN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5871</BfpoNum>
+		<Loc>Thessaloniki</Loc>
+		<PstCd>BF2 0EP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5872</BfpoNum>
+		<Loc>Kos</Loc>
+		<PstCd>BF2 0EQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5873</BfpoNum>
+		<Loc>Syros</Loc>
+		<PstCd>BF2 0ER</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5874</BfpoNum>
+		<Loc>Patres</Loc>
+		<PstCd>BF2 0ES</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5875</BfpoNum>
+		<Loc>Zakynthos</Loc>
+		<PstCd>BF2 0ET</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5877</BfpoNum>
+		<Loc>San Pedro Sula</Loc>
+		<PstCd>BF2 0EW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5878</BfpoNum>
+		<Loc>Macao</Loc>
+		<PstCd>BF2 0EX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5879</BfpoNum>
+		<Loc>Bali</Loc>
+		<PstCd>BF2 0EY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5880</BfpoNum>
+		<Loc>Medan</Loc>
+		<PstCd>BF2 0EZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5881</BfpoNum>
+		<Loc>Surabaya</Loc>
+		<PstCd>BF2 0FA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5882</BfpoNum>
+		<Loc>Eilat</Loc>
+		<PstCd>BF2 0FB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5883</BfpoNum>
+		<Loc>Trieste</Loc>
+		<PstCd>BF2 0FD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5884</BfpoNum>
+		<Loc>Bari</Loc>
+		<PstCd>BF2 0FE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5885</BfpoNum>
+		<Loc>Catania</Loc>
+		<PstCd>BF2 0FF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5886</BfpoNum>
+		<Loc>Cagliari</Loc>
+		<PstCd>BF2 0FG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5887</BfpoNum>
+		<Loc>Palermo</Loc>
+		<PstCd>BF2 0FH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5888</BfpoNum>
+		<Loc>Montego Bay</Loc>
+		<PstCd>BF2 0FJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5889</BfpoNum>
+		<Loc>Nagoya</Loc>
+		<PstCd>BF2 0FL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5890</BfpoNum>
+		<Loc>Fukuoka</Loc>
+		<PstCd>BF2 0FN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5891</BfpoNum>
+		<Loc>Pusan</Loc>
+		<PstCd>BF2 0FP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5892</BfpoNum>
+		<Loc>Toamasina</Loc>
+		<PstCd>BF2 0FQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5893</BfpoNum>
+		<Loc>Funchal</Loc>
+		<PstCd>BF2 0FR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5894</BfpoNum>
+		<Loc>Johor Bahru</Loc>
+		<PstCd>BF2 0FS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5895</BfpoNum>
+		<Loc>Kota Kinabalu</Loc>
+		<PstCd>BF2 0FT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5896</BfpoNum>
+		<Loc>Miri</Loc>
+		<PstCd>BF2 0FU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5897</BfpoNum>
+		<Loc>Penang</Loc>
+		<PstCd>BF2 0FW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5898</BfpoNum>
+		<Loc>Rodrigues</Loc>
+		<PstCd>BF2 0FX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5899</BfpoNum>
+		<Loc>Tijuana</Loc>
+		<PstCd>BF2 0FY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5900</BfpoNum>
+		<Loc>Acapulco</Loc>
+		<PstCd>BF2 0FZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5901</BfpoNum>
+		<Loc>Ciudad Juarez</Loc>
+		<PstCd>BF2 0GA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5902</BfpoNum>
+		<Loc>Guadalajara</Loc>
+		<PstCd>BF2 0GB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5903</BfpoNum>
+		<Loc>Oaxaca</Loc>
+		<PstCd>BF2 0GD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5904</BfpoNum>
+		<Loc>Veracruz</Loc>
+		<PstCd>BF2 0GE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5905</BfpoNum>
+		<Loc>Cancun</Loc>
+		<PstCd>BF2 0GF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5906</BfpoNum>
+		<Loc>Monaco</Loc>
+		<PstCd>BF2 0GG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5907</BfpoNum>
+		<Loc>Agadir</Loc>
+		<PstCd>BF2 0GH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5908</BfpoNum>
+		<Loc>Marrakech</Loc>
+		<PstCd>BF2 0GJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5909</BfpoNum>
+		<Loc>Warri</Loc>
+		<PstCd>BF2 0GL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5910</BfpoNum>
+		<Loc>Bergen</Loc>
+		<PstCd>BF2 0GN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5911</BfpoNum>
+		<Loc>Bodo</Loc>
+		<PstCd>BF2 0GP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5912</BfpoNum>
+		<Loc>Kristiansand</Loc>
+		<PstCd>BF2 0GQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5913</BfpoNum>
+		<Loc>Stavanger</Loc>
+		<PstCd>BF2 0GR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5914</BfpoNum>
+		<Loc>Tromso</Loc>
+		<PstCd>BF2 0GS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5915</BfpoNum>
+		<Loc>Trondheim</Loc>
+		<PstCd>BF2 0GT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5916</BfpoNum>
+		<Loc>Alesund</Loc>
+		<PstCd>BF2 0GU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5917</BfpoNum>
+		<Loc>Cusco</Loc>
+		<PstCd>BF2 0GW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5918</BfpoNum>
+		<Loc>Arequipa</Loc>
+		<PstCd>BF2 0GX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5919</BfpoNum>
+		<Loc>Trujillo</Loc>
+		<PstCd>BF2 0GY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5920</BfpoNum>
+		<Loc>Cebu</Loc>
+		<PstCd>BF2 0GZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5921</BfpoNum>
+		<Loc>Angeles City</Loc>
+		<PstCd>BF2 0HA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5922</BfpoNum>
+		<Loc>Olongapo</Loc>
+		<PstCd>BF2 0HB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5923</BfpoNum>
+		<Loc>Poznan</Loc>
+		<PstCd>BF2 0HD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5924</BfpoNum>
+		<Loc>Szczecin</Loc>
+		<PstCd>BF2 0HE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5925</BfpoNum>
+		<Loc>Wroclaw</Loc>
+		<PstCd>BF2 0HF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5926</BfpoNum>
+		<Loc>Lodz</Loc>
+		<PstCd>BF2 0HG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5927</BfpoNum>
+		<Loc>Katowice</Loc>
+		<PstCd>BF2 0HH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5928</BfpoNum>
+		<Loc>Gdansk</Loc>
+		<PstCd>BF2 0HJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5929</BfpoNum>
+		<Loc>Krakow</Loc>
+		<PstCd>BF2 0HL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5930</BfpoNum>
+		<Loc>Lublin</Loc>
+		<PstCd>BF2 0HN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5931</BfpoNum>
+		<Loc>Portimao</Loc>
+		<PstCd>BF2 0HP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5932</BfpoNum>
+		<Loc>Basseterre</Loc>
+		<PstCd>BF2 0HQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5934</BfpoNum>
+		<Loc>Port Elizabeth</Loc>
+		<PstCd>BF2 0HS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5935</BfpoNum>
+		<Loc>Vigo</Loc>
+		<PstCd>BF2 0HT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5936</BfpoNum>
+		<Loc>Benidorm</Loc>
+		<PstCd>BF2 0HU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5937</BfpoNum>
+		<Loc>Cadiz</Loc>
+		<PstCd>BF2 0HW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5938</BfpoNum>
+		<Loc>Menorca</Loc>
+		<PstCd>BF2 0HX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5939</BfpoNum>
+		<Loc>Lugano</Loc>
+		<PstCd>BF2 0HY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5940</BfpoNum>
+		<Loc>Basel</Loc>
+		<PstCd>BF2 0HZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5941</BfpoNum>
+		<Loc>Montreux</Loc>
+		<PstCd>BF2 0JA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5942</BfpoNum>
+		<Loc>Aleppo</Loc>
+		<PstCd>BF2 0JB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5943</BfpoNum>
+		<Loc>Latakia</Loc>
+		<PstCd>BF2 0JD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5944</BfpoNum>
+		<Loc>Sfax</Loc>
+		<PstCd>BF2 0JE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5945</BfpoNum>
+		<Loc>Antalya</Loc>
+		<PstCd>BF2 0JF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5946</BfpoNum>
+		<Loc>Marmaris</Loc>
+		<PstCd>BF2 0JG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5947</BfpoNum>
+		<Loc>Bursa</Loc>
+		<PstCd>BF2 0JH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5948</BfpoNum>
+		<Loc>Maracaibo</Loc>
+		<PstCd>BF2 0JJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5949</BfpoNum>
+		<Loc>Margarita</Loc>
+		<PstCd>BF2 0JL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5950</BfpoNum>
+		<Loc>San Cristobal</Loc>
+		<PstCd>BF2 0JN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5951</BfpoNum>
+		<Loc>Valencia</Loc>
+		<PstCd>BF2 0JP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5952</BfpoNum>
+		<Loc>Merida</Loc>
+		<PstCd>BF2 0JQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5953</BfpoNum>
+		<Loc>Hodeidah</Loc>
+		<PstCd>BF2 0JR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5954</BfpoNum>
+		<Loc>Orlando</Loc>
+		<PstCd>BF2 0JS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5955</BfpoNum>
+		<Loc>Purto Rico</Loc>
+		<PstCd>BF2 0JT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5956</BfpoNum>
+		<Loc>Anchorage</Loc>
+		<PstCd>BF2 0JU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5957</BfpoNum>
+		<Loc>New Orleans</Loc>
+		<PstCd>BF2 0JW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5958</BfpoNum>
+		<Loc>Kansas &amp; W Missouri</Loc>
+		<PstCd>BF2 0JX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5959</BfpoNum>
+		<Loc>Charlotte</Loc>
+		<PstCd>BF2 0JY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5960</BfpoNum>
+		<Loc>Phoenix</Loc>
+		<PstCd>BF2 0JZ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5961</BfpoNum>
+		<Loc>Pittsburgh</Loc>
+		<PstCd>BF2 0LA</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5962</BfpoNum>
+		<Loc>Portland</Loc>
+		<PstCd>BF2 0LB</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5963</BfpoNum>
+		<Loc>Salt Lake City</Loc>
+		<PstCd>BF2 0LD</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5964</BfpoNum>
+		<Loc>San Diego</Loc>
+		<PstCd>BF2 0LE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5965</BfpoNum>
+		<Loc>Nashville</Loc>
+		<PstCd>BF2 0LF</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5966</BfpoNum>
+		<Loc>Indiana</Loc>
+		<PstCd>BF2 0LG</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5967</BfpoNum>
+		<Loc>Michigan</Loc>
+		<PstCd>BF2 0LH</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5968</BfpoNum>
+		<Loc>Minnesota</Loc>
+		<PstCd>BF2 0LJ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5969</BfpoNum>
+		<Loc>Ohio</Loc>
+		<PstCd>BF2 0LL</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5970</BfpoNum>
+		<Loc>Wisconsin</Loc>
+		<PstCd>BF2 0LN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5971</BfpoNum>
+		<Loc>New York UKMIS</Loc>
+		<PstCd>BF2 0LP</PstCd>
+		<Ctry>USA</Ctry>
+		<CtryCd>US</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5981</BfpoNum>
+		<Loc>Border Force Amsterdam</Loc>
+		<PstCd>BF2 0NA</PstCd>
+		<Ctry>Netherlands</Ctry>
+		<CtryCd>NL</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5982</BfpoNum>
+		<Loc>Border Force Paris</Loc>
+		<PstCd>BF2 0NB</PstCd>
+		<Ctry>France</Ctry>
+		<CtryCd>FR</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5983</BfpoNum>
+		<Loc>Border Force Brussels</Loc>
+		<PstCd>BF2 0ND</PstCd>
+		<Ctry>Belgium</Ctry>
+		<CtryCd>BE</CtryCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5984</BfpoNum>
+		<Loc>Border Force Lille</Loc>
+		<PstCd>BF2 0NE</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5990</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NN</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5991</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NP</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5992</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NQ</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5993</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NR</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5994</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NS</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5995</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NT</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5996</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NU</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5997</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NW</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5998</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NX</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+	<BFFO_Address>
+		<BfpoNum>BFPO 5999</BfpoNum>
+		<Loc>Rapid Deployment Post</Loc>
+		<PstCd>BF2 0NY</PstCd>
+		<Type>fcdo</Type>
+	</BFFO_Address>
+</Config>
