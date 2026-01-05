@@ -180,6 +180,8 @@ If overwrite_country = False:
 
 ### Country Code Resolution
 
+Only applies if parameter called overwrite_country is set to False.
+
 Uses `pycountry` library for ISO 3166-1 alpha-2 codes with intelligent fallbacks:
 
 ```python
