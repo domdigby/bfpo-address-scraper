@@ -26,7 +26,7 @@ Ideally suited to produce the xml config file which can then be further used as 
 - Locations and unit names
 - BF1 postcodes
 - Country names
-- ISO 3166-1 alpha-2 country codes (via pycountry) - N.B.the country code for a BFPO address should always be GB 
+- ISO 3166-1 alpha-2 country codes (via pycountry) - N.B.the country code for a BFPO address should always be GB
 - Type classification (static, ship, fcdo, operation, exercise, navalparty, detachment)
 
 ### 📊 XML Configuration Output
@@ -92,6 +92,44 @@ python main.py fcdo_bfpo_list.ods
 ```
 
 ## XML Output Format
+
+The _add_address function has an optional boolean parameter to overwrite the country code with GB if set to True.
+It is True by default.  The examples below are with this parameter set to True and False. 
+
+If overwrite_country = True:
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+    <!--
+    BFPO Address Configuration
+    Generated from GOV.UK BFPO locations
+    Last Updated: 2026-01-03
+    Created By: Affinis Ltd (Dominic Digby)
+    Schema: bfpo_config.xsd
+    Country Codes: ISO 3166-1 alpha-2 (via pycountry)
+    -->
+    
+    <BFFO_Address>
+        <BfpoNum>BFPO 58</BfpoNum>
+        <Loc>Dhekelia</Loc>
+        <PstCd>BF1 2AU</PstCd>
+        <CtryCd>GB</CtryCd>
+        <Type>static</Type>
+    </BFFO_Address>
+    
+    <BFFO_Address>
+        <BfpoNum>BFPO 105</BfpoNum>
+        <BoxNum>589</BoxNum>
+        <Loc>ATC Oberstdorf</Loc>
+        <PstCd>BF1 0AX</PstCd>
+        <CtryCd>GB</CtryCd>
+        <Type>detachment</Type>
+    </BFFO_Address>
+</Config>
+```
+
+If overwrite_country = False:
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

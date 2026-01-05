@@ -169,7 +169,8 @@ class BFPOScraperSimple:
 
     def _add_address(self, bfpo_num: str, location: str, postcode: Optional[str] = None,
                      country: Optional[str] = None, bfpo_type: str = 'static',
-                     box_num: Optional[str] = None) -> None:
+                     box_num: Optional[str] = None,
+                     overwrite_country: Optional[bool] = True) -> None:
         """Add BFPO address to list with country code resolution."""
         # Ensure BfpoNum is prefixed with "BFPO "
         if not bfpo_num.upper().startswith('BFPO'):
@@ -187,7 +188,9 @@ class BFPOScraperSimple:
         if postcode:
             address['PstCd'] = postcode
 
-        if country:
+        if overwrite_country:
+            address['CtryCd'] = 'GB'
+        elif country:
             address['Ctry'] = country
             country_code = self.country_resolver.get_country_code(country)
             if country_code:
